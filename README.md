@@ -1,8 +1,8 @@
 # Student Performance Analysis
 
 ## Student Details
-- Name: Your Full Name
-- Roll No: Your Roll Number
+- Name: M.SHAHEER TAHIR 
+- Roll No: SP24-BAI-036
 - Course: AIC270 – Programming for AI
 - Semester: 5th
 
